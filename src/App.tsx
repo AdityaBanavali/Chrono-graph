@@ -1,4 +1,4 @@
-import { useEffect, useState, Suspense } from 'react'
+import { useEffect, Suspense } from 'react'
 import { Canvas } from '@react-three/fiber'
 import {
   HUDOverlay,
